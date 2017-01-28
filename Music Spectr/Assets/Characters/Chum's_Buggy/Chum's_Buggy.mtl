@@ -1,0 +1,57 @@
+# 
+# 
+
+newmtl BuggyEngine
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Chum's_Buggy_Engine_D.tga
+map_Bump Chum's_Buggy_Engine_N.tga
+
+newmtl BuggyExterior
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Chum's_Buggy_Exterior_D.tga
+map_Bump Chum's_Buggy_Exterior_N.tga
+
+newmtl BuggyInterior
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Chum's_Buggy_Interior_D.tga
+map_Bump Chum's_Buggy_Interior_N.tga
+
+newmtl BuggyShockAbs
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd Chum's_Buggy_Shock_Absorbers_D.tga
+map_Bump Chum's_Buggy_Shock_Absorbers_N.tga
+
+newmtl BuggyWheels
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Chum's_Buggy_Wheels_D.tga
+map_Bump Chum's_Buggy_Wheels_N.tga

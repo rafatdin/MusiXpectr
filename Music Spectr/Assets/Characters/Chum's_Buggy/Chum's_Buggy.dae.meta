@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 2b705ff65ff3f0d4eaaa20f6de489eb3
+timeCreated: 1451724496
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Armature
+    100002: buggy
+    100004: BuggyEngine
+    100006: BuggyExterior
+    100008: BuggyInterior
+    100010: BuggyShockAbs
+    100012: BuggyWheels
+    100014: //RootNode
+    100016: gearshift
+    100018: handbrake
+    100020: pedal_accelerator
+    100022: pedal_brake
+    100024: pedal_clutch
+    100026: root
+    100028: shock_absorber_back
+    100030: shock_absorber_back_a_left
+    100032: shock_absorber_back_a_right
+    100034: shock_absorber_back_b_left
+    100036: shock_absorber_back_b_right
+    100038: shock_absorber_back_c_left
+    100040: shock_absorber_back_c_right
+    100042: shock_absorber_back_d_left
+    100044: shock_absorber_back_d_right
+    100046: shock_absorber_front
+    100048: shock_absorber_front_a_left
+    100050: shock_absorber_front_a_right
+    100052: shock_absorber_front_b_left
+    100054: shock_absorber_front_b_right
+    100056: steering_wheel
+    100058: wheel_back_left
+    100060: wheel_back_right
+    100062: wheel_front_a_left
+    100064: wheel_front_a_right
+    100066: wheel_front_b_left
+    100068: wheel_front_b_right
+    400000: Armature
+    400002: buggy
+    400004: BuggyEngine
+    400006: BuggyExterior
+    400008: BuggyInterior
+    400010: BuggyShockAbs
+    400012: BuggyWheels
+    400014: //RootNode
+    400016: gearshift
+    400018: handbrake
+    400020: pedal_accelerator
+    400022: pedal_brake
+    400024: pedal_clutch
+    400026: root
+    400028: shock_absorber_back
+    400030: shock_absorber_back_a_left
+    400032: shock_absorber_back_a_right
+    400034: shock_absorber_back_b_left
+    400036: shock_absorber_back_b_right
+    400038: shock_absorber_back_c_left
+    400040: shock_absorber_back_c_right
+    400042: shock_absorber_back_d_left
+    400044: shock_absorber_back_d_right
+    400046: shock_absorber_front
+    400048: shock_absorber_front_a_left
+    400050: shock_absorber_front_a_right
+    400052: shock_absorber_front_b_left
+    400054: shock_absorber_front_b_right
+    400056: steering_wheel
+    400058: wheel_back_left
+    400060: wheel_back_right
+    400062: wheel_front_a_left
+    400064: wheel_front_a_right
+    400066: wheel_front_b_left
+    400068: wheel_front_b_right
+    4300000: BuggyEngine
+    4300002: BuggyExterior
+    4300004: BuggyWheels
+    4300006: BuggyShockAbs
+    4300008: BuggyInterior
+    9500000: //RootNode
+    13700000: BuggyEngine
+    13700002: BuggyExterior
+    13700004: BuggyInterior
+    13700006: BuggyShockAbs
+    13700008: BuggyWheels
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
