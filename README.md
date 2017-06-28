@@ -25,12 +25,12 @@ I would also like to thank the Un4seen and Unity Technologies for providing thei
 
 
 ### 2	Literature review
-##### 2.1	Mobile video gaming industry
-##### 2.2	Monetization
+##### 2.1 Mobile video gaming industry
+##### 2.2 Monetization
 ##### 2.3 Customer retention strategy
 ##### 2.4 Digital signal processing
 
-### 3 Business Methodology
+### 3 Business Area Analysis
 ##### 3.1 Industry Analysis
 ###### 3.1.1 Threat of new entrants
 ###### 3.1.2 Bargaining power of customers
@@ -50,14 +50,6 @@ I would also like to thank the Un4seen and Unity Technologies for providing thei
 ###### 4.1.4 Music Importing Library
 #####	4.2 Methodology
 #####	4.3 Implementation
-###### 4.3.1 First iteration
-###### 4.3.2 Second iteration
-###### 4.3.3 Third iteration
-###### 4.3.4 Fourth and fifth iteration
-###### 4.3.5 Sixth iteration
-###### 4.3.6 The seventh iteration
-###### 4.3.7 Eighth iteration
-###### 4.3.8 Ninth iteration
 #####	4.4 Testing
 
 
