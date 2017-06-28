@@ -15,16 +15,11 @@ In addition, I would like to thank Dylan Fitterer for an amazing game Audiosurf 
 I would also like to thank the Un4seen and Unity Technologies for providing their products, documentation and tutorials that were vital during the project implementation. Finally, I thank my BIS fellow course mates’ community, friends and family for their support.
 
 ## Contents
-### Acknowledgements
+Acknowledgements
 
-
-### Abstract
-
-
-### 1	Introduction
-
-<details>
-<summary>2. Literature review</summary>
+Abstract
+1. Introduction
+<details><summary>2. Literature review</summary>
 
   2.1. Mobile video gaming industry
 
