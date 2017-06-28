@@ -85,7 +85,7 @@ Abstract
 
 
 6. Conclusions
-###	7 Final Chapter
+### 7. Final Chapter
 ----
 In this chapter I would like to make the critical self-evaluation on the work that has been
 done, as well as possible further development of the project.
