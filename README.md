@@ -25,7 +25,9 @@ I would also like to thank the Un4seen and Unity Technologies for providing thei
 
 <details>
 <summary>2. Literature review</summary>
+
   2.1. Mobile video gaming industry
+
 
   2.2. Monetization
   
@@ -34,37 +36,60 @@ I would also like to thank the Un4seen and Unity Technologies for providing thei
   2.4. Digital signal processing
 </details>
 
-### 3 Business Area Analysis
-##### 3.1 Industry Analysis
-###### 3.1.1 Threat of new entrants
-###### 3.1.2 Bargaining power of customers
-###### 3.1.3 Bargaining power of suppliers
-###### 3.1.4 Threat of substitutes
-###### 3.1.5 Intensity of competitive rivalry
-###### 3.2 Competitors’ analysis
-###### 3.3 Monetization
-###### 3.4 SWOT analysis
+<details>
+<summary>3. Business Area Analysis</summary>
+ 3.1.	Industry Analysis
+ 
+ 3.1.1 Threat of new entrants
+ 
+ 3.1.2 Bargaining power of customers
+ 
+ 3.1.3 Bargaining power of suppliers
+ 
+ 3.1.4 Threat of substitutes
+ 
+ 3.1.5 Intensity of competitive rivalry
+ 
+ 3.2 Competitors’ analysis
+ 
+ 3.3 Monetization
+ 
+ 3.4 SWOT analysis
+ 
+</details>
+
+<details>
+<summary>4. IT strategy</summary>
+4.1 Software Justification
+
+4.1.1 Platform
+
+4.1.2 Gaming Engine
+
+4.1.3 Programming Language &amp; Environment
+
+4.1.4 Music Importing Library
+
+4.2 Methodology
+
+4.3 Implementation
+
+4.4 Testing
+</details>
+
+<details>
+<summary>5. Results</summary>
+5.1 Prototype #1
+
+5.2 Prototype #4
+
+5.3 Sixth prototype
+
+5.4 Programming skills
+</details>
 
 
-### 4 IT strategy
-#####	4.1 Software Justification
-###### 4.1.1 Platform
-###### 4.1.2 Gaming Engine
-###### 4.1.3 Programming Language &amp; Environment
-###### 4.1.4 Music Importing Library
-#####	4.2 Methodology
-#####	4.3 Implementation
-#####	4.4 Testing
-
-
-###	5 Results
-#####	5.1 Prototype #1
-#####	5.2 Prototype #4
-#####	5.3 Sixth prototype
-#####	5.4 Programming skills
-
-
-### 6 Conclusions
+6. Conclusions
 ###	7 Final Chapter
 ----
 In this chapter I would like to make the critical self-evaluation on the work that has been
@@ -120,4 +145,4 @@ images, logo and other related design documents to professionals.
 Finally, as main weakness of the game it should be stated now only small amount of the available data is used for game effects. The more objects and events might be added to synchronize with tempo and beats of the music to dramatically improve the gameplay experience.
 
 -------
-###	8 List of references
+8. List of references
