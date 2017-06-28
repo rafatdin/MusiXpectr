@@ -23,12 +23,16 @@ I would also like to thank the Un4seen and Unity Technologies for providing thei
 
 ### 1	Introduction
 
+<details>
+<summary>2. Literature review</summary>
+  2.1. Mobile video gaming industry
 
-### 2	Literature review
-##### 2.1 Mobile video gaming industry
-##### 2.2 Monetization
-##### 2.3 Customer retention strategy
-##### 2.4 Digital signal processing
+  2.2. Monetization
+  
+  2.3. Customer retention strategy
+  
+  2.4. Digital signal processing
+</details>
 
 ### 3 Business Area Analysis
 ##### 3.1 Industry Analysis
